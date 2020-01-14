@@ -1,0 +1,29 @@
+body {
+    background-color: chartreuse;
+}
+h1{
+    color: red;
+    font-size: 50px;
+}
+h2{
+    color: royalblue;
+}
+h1,h2 {
+    color:  black;
+}
+li {
+    color: orange;
+}
+.food {
+    color: blue;
+}
+.animals    
+{
+color: red;
+}
+img .food {
+width: 250px;
+}
+img {
+height: 200px;
+}
