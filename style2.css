@@ -1,3 +1,11 @@
 body {
-    background: red;
+    background: burlywood;
 }
+h2 {
+    color: pink;
+}
+h1{color: hotpink;}
+li {color: salmon;}
+img {
+    height: 20000px;
+    }
