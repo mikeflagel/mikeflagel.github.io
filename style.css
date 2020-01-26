@@ -1,29 +1,72 @@
-body {
-    background-color: chartreuse;
-}
 h1{
-    color: red;
+    color: white;
     font-size: 50px;
 }
-h2{
-    color: royalblue;
+.jumbotronglobe{
+    background-attachment: scroll;
+    height: 450px;
+    background-size:cover;
+    background-image: url(globe.jpg);
+    text-align: center;
 }
-h1,h2 {
-    color:  black;
+.display-4{
+    color: black;
+    font-size: 75px;
+    text-align: initial;
+    font-weight: normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-li {
-    color: orange;
+.lead{
+    color: black;
 }
-.food {
-    color: blue;
+.fas fa-star-of-david{
+    font: blue;
 }
-.animals    
-{
-color: red;
+.jumbotronisrael{
+    background-attachment: scroll;
+    height: 450px;
+    background-size: cover;
+    background-image: url(jerusalem-1712855_new.jpg);
+    text-align: center;
 }
-img .food {
-width: 250px;
+.jumbotronamalfi{
+    background-attachment: scroll;
+    height: 550px;
+    background-size: cover;
+    background-image: url(italy.jpg);
+    text-align: center; 
 }
-img {
-height: 200px;
+.amalficoast{
+    color: black;
+    font-size: 70px;
+    font-family: monospace;
+    text-align: initial;
+}
+.jumbotronvail{
+    background-attachment: scroll;
+    height: 550px;
+    background-size: cover;
+    background-image: url(vailpic1.jpg);
+    text-align: center;   
+}
+h3{
+    font-size: 65px;
+    font-style: italic;
+}
+.carouselisrael{
+    height: 300px;
+    width: 300px;
+}
+.carouselslide{
+    text-align: center;
+}
+.display-5{
+    color: white;
+    font-size: 60px;
+    text-align: initial;
+}
+.display-6{
+    color: white;
+    font-size: 100px;
+    text-align: initial;
 }
